@@ -56,7 +56,6 @@ class KeyboardController {
   }
 
   handleKeyPress(e, key) {
-    console.log(e.shiftKey);
     let content = key.model.content;
     if (e.shiftKey) {
       content =
@@ -89,7 +88,6 @@ class KeyboardController {
   }
 
   handleFunctionKeysPress(key, phKey) {
-    console.log(phKey);
     if (phKey === 'Shift') {
       if (key.model.value === 'Shift') {
         key.element.classList.add('active');

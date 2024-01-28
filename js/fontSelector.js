@@ -12,7 +12,7 @@ class FontSelector {
         for (let i = 0; i < keys.length; i++) {
           keys[i].style.fontFamily = selectedFont;
         }
-        for (let i = 0; i < keys.length; i++) {
+        for (let i = 0; i < keysText.length; i++) {
           keysText[i].style.fontFamily = selectedFont;
         }
       });

@@ -12,17 +12,14 @@ class Input {
   }
 
   addValue(value) {
-    console.log(value);
     this.element.value += value;
   }
 
   removeValue() {
-    console.log(this.element.value);
     this.element.value = this.element.value.substring(
       0,
       this.element.value.length - 1
     );
-    console.log(this.element.value);
   }
 }
 
