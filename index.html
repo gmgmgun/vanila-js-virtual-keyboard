@@ -7,10 +7,23 @@
     <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
+    <div id="select-box">
+      <div id="toggle-button-container">
+        <button id="toggle-button"></button>
+      </div>
+      <select id="font-selector">
+        <option value="Arial">Arial</option>
+        <option value="Verdana">Verdana</option>
+        <option value="Times New Roman">Times New Roman</option>
+        <option value="Georgia">Georgia</option>
+      </select>
+    </div>
     <div id="main-container">
       <input id="input-container" />
       <div id="keyboard-container"></div>
     </div>
+    <script src="/js/button.js"></script>
+    <script src="/js/fontSelector.js"></script>
     <script src="/js/input.js"></script>
     <script src="/js/keyboard.js"></script>
     <script src="/js/model/keyboardModel.js"></script>
