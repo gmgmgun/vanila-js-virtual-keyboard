@@ -1,0 +1,85 @@
+{
+  "rows": [
+    {
+      "keys": [
+        { "type": "sign", "value": ["~", "`"], "width": "50px" },
+        { "type": "sign", "value": ["!", "1"], "width": "50px" },
+        { "type": "sign", "value": ["@", "2"], "width": "50px" },
+        { "type": "sign", "value": ["#", "3"], "width": "50px" },
+        { "type": "sign", "value": ["$", "4"], "width": "50px" },
+        { "type": "sign", "value": ["%", "5"], "width": "50px" },
+        { "type": "sign", "value": ["^", "6"], "width": "50px" },
+        { "type": "sign", "value": ["&", "7"], "width": "50px" },
+        { "type": "sign", "value": ["*", "8"], "width": "50px" },
+        { "type": "sign", "value": ["(", "9"], "width": "50px" },
+        { "type": "sign", "value": [")", "0"], "width": "50px" },
+        { "type": "sign", "value": ["_", "-"], "width": "50px" },
+        { "type": "sign", "value": ["+", "="], "width": "50px" },
+        { "type": "function", "value": "Backspace", "width": "120px" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "function", "value": "Tab", "width": "80px" },
+        { "type": "letter", "value": ["Q", "q"], "width": "50px" },
+        { "type": "letter", "value": ["W", "w"], "width": "50px" },
+        { "type": "letter", "value": ["E", "e"], "width": "50px" },
+        { "type": "letter", "value": ["R", "r"], "width": "50px" },
+        { "type": "letter", "value": ["T", "t"], "width": "50px" },
+        { "type": "letter", "value": ["Y", "y"], "width": "50px" },
+        { "type": "letter", "value": ["U", "u"], "width": "50px" },
+        { "type": "letter", "value": ["I", "i"], "width": "50px" },
+        { "type": "letter", "value": ["O", "o"], "width": "50px" },
+        { "type": "letter", "value": ["P", "p"], "width": "50px" },
+        { "type": "sign", "value": ["{", "["], "width": "50px" },
+        { "type": "sign", "value": ["}", "]"], "width": "50px" },
+        { "type": "sign", "value": ["|", "\\"], "width": "50px" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "function", "value": "CapsLock", "width": "90px" },
+        { "type": "letter", "value": ["A", "a"], "width": "50px" },
+        { "type": "letter", "value": ["S", "s"], "width": "50px" },
+        { "type": "letter", "value": ["D", "d"], "width": "50px" },
+        { "type": "letter", "value": ["F", "f"], "width": "50px" },
+        { "type": "letter", "value": ["G", "g"], "width": "50px" },
+        { "type": "letter", "value": ["H", "h"], "width": "50px" },
+        { "type": "letter", "value": ["J", "j"], "width": "50px" },
+        { "type": "letter", "value": ["K", "k"], "width": "50px" },
+        { "type": "letter", "value": ["L", "l"], "width": "50px" },
+        { "type": "sign", "value": [":", ";"], "width": "50px" },
+        { "type": "sign", "value": ["\"", "'"], "width": "50px" },
+        { "type": "function", "value": "Enter", "width": "120px" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "function", "value": "Shift", "width": "120px" },
+        { "type": "letter", "value": ["Z", "z"], "width": "50px" },
+        { "type": "letter", "value": ["X", "x"], "width": "50px" },
+        { "type": "letter", "value": ["C", "c"], "width": "50px" },
+        { "type": "letter", "value": ["V", "v"], "width": "50px" },
+        { "type": "letter", "value": ["B", "b"], "width": "50px" },
+        { "type": "letter", "value": ["N", "n"], "width": "50px" },
+        { "type": "letter", "value": ["M", "m"], "width": "50px" },
+        { "type": "sign", "value": ["<", ","], "width": "50px" },
+        { "type": "sign", "value": [">", "."], "width": "50px" },
+        { "type": "sign", "value": ["?", "/"], "width": "50px" },
+        { "type": "function", "value": "Shift", "width": "140px" }
+      ]
+    },
+    {
+      "keys": [
+        { "type": "function", "value": "Ctrl", "width": "60px" },
+        { "type": "function", "value": "-", "width": "60px" },
+        { "type": "function", "value": "Alt", "width": "60px" },
+        { "type": "function", "value": "Space", "width": "370px" },
+        { "type": "function", "value": "Alt", "width": "60px" },
+        { "type": "function", "value": "Fn", "width": "60px" },
+        { "type": "function", "value": "-", "width": "60px" },
+        { "type": "function", "value": "Ctrl", "width": "60px" }
+      ]
+    }
+  ]
+}
